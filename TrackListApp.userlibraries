@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="log4j-api-2.11.0">
+    <archive path="/home/dims/IdeaProjects/TrackListApp/lib/log4j-api-2.11.0.jar" />
+    <archive path="/home/dims/IdeaProjects/TrackListApp/lib/log4j-core-2.11.0.jar" />
+    <archive path="/home/dims/IdeaProjects/TrackListApp/lib/json-20140107.jar" />
+  </library>
+</eclipse-userlibraries>
+
